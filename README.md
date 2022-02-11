@@ -1,12 +1,34 @@
-<h1>Oi 👋, sou o Lucas</h1>
-<h3>Algumas coisas legais sobre mim:</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🔭 Atualmente trabalho na **Thoughtworks**
-
-- 👨‍💻 Faço lives na [Twitch](https://twitch.tv/devlucaslopes) de segunda a sexta às 08h
-
-<h3 align="left">Me manda um oi:</h3>
+<p align="left"> 
+  Há mais de 5 anos criando e resolvendo bugs!
+</p>
 <p align="left">
-<a href="https://linkedin.com/in/devlucaslopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devlucaslopes" height="30" width="40" /></a>
-<a href="https://instagram.com/devlucaslopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devlucaslopes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devlucaslopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devlucaslopes" height="30" width="40" /></a>
+  Atualmente trabalho como desenvolvedor de software e no meu tempo livre falo sobre programação e carreira para ajudar outras pessoas que gostariam de aprender sobre o mundo da tecnologia.
+</p>
+
+<p align="left">
+  🦄 <strong>Linguagens</strong>: HTML, CSS, JavaScript, Typescript, PHP e Python.
+</p>
+
+<p align="left">
+  💼 Ferramentas: Sass, ReactJS, NextJS, Tailwind, ChakraUI, Styled Components, Storybook, React Testing Library.
+</p>
+
+<p align="left">
+  💌 Você pode me encontrar aqui: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/devlucaslopes/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-AC04FF?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/devlucaslopes"/>
+  </a>
+  
+  <a href="https://twitch.tv/devlucaslopes" alt="Twitch">
+    <img src="https://img.shields.io/badge/-Twitch-AC04FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF&link=https://twitch.tv/devlucaslopes"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/devlucaslopes/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-AC04FF?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&link=https://www.linkedin.com/in/devlucaslopes/"/>
+  </a>
+</p>  
