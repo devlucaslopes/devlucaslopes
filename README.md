@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Sass, ReactJS, NextJS, Tailwind, ChakraUI, Styled Components, Storybook, React Testing Library.
+  💼 <strong>Ferramentas</strong>: Sass, ReactJS, NextJS, Tailwind, ChakraUI, Styled Components, Storybook, React Testing Library.
 </p>
 
 <p align="left">
