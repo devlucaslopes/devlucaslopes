@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<div width="400px">
+  <img src="./logo.png" width="200px" align="right" alt="@devlucaslopes">
+</div>
 
 <p align="left"> 
   Há mais de 5 anos criando e resolvendo bugs!
@@ -21,14 +23,14 @@
 
 <p align="left">
   <a href="https://www.instagram.com/devlucaslopes/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-AC04FF?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/devlucaslopes"/>
+    <img src="https://img.shields.io/badge/-Instagram-030305?style=for-the-badge&logo=Instagram&logoColor=0DEAFF&link=https://www.instagram.com/devlucaslopes"/>
   </a>
   
   <a href="https://twitch.tv/devlucaslopes" alt="Twitch">
-    <img src="https://img.shields.io/badge/-Twitch-AC04FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF&link=https://twitch.tv/devlucaslopes"/>
+    <img src="https://img.shields.io/badge/-Twitch-030305?style=for-the-badge&logo=Twitch&logoColor=0DEAFF&link=https://twitch.tv/devlucaslopes"/>
   </a>
   
   <a href="https://www.linkedin.com/in/devlucaslopes/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-AC04FF?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&link=https://www.linkedin.com/in/devlucaslopes/"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-030305?style=for-the-badge&logo=LinkedIn&logoColor=0DEAFF&link=https://www.linkedin.com/in/devlucaslopes/"/>
   </a>
 </p>  
