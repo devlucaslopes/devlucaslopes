@@ -1,6 +1,4 @@
-<div width="400px">
-  <img src="./logo.png" width="200px" align="right" alt="@devlucaslopes">
-</div>
+
 
 <p align="left"> 
   Há mais de 5 anos criando e resolvendo bugs!
