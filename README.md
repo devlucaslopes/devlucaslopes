@@ -6,6 +6,9 @@
 <p align="left">
   Atualmente trabalho como desenvolvedor de software e no meu tempo livre falo sobre programação e carreira para ajudar outras pessoas que gostariam de aprender sobre o mundo da tecnologia.
 </p>
+<p align="left">
+ Aspirante a desenvolvedor de jogos, estou aprendendo sobre Unity e C#.
+</p>
 
 <p align="left">
   🦄 <strong>Linguagens</strong>: HTML, CSS, JavaScript, Typescript, PHP e Python.
